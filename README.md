@@ -70,8 +70,8 @@ To gain hands-on experience with:
 
 ## Resources
 
-[**Terraform Docs:**](https://developer.hashicorp.com/terraform/docs)
+[**Terraform Docs**](https://developer.hashicorp.com/terraform/docs)
 
-[**AWS EC2 Documentation:**](https://docs.aws.amazon.com/ec2/)
+[**AWS EC2 Documentation**](https://docs.aws.amazon.com/ec2/)
 
-[**Terraform AWS Provider:**](https://registry.terraform.io/providers/hashicorp/aws/latest)
+[**Terraform AWS Provider**](https://registry.terraform.io/providers/hashicorp/aws/latest)
