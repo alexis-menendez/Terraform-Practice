@@ -31,7 +31,7 @@ To gain hands-on experience with:
 - Terraform installed (`terraform -v`)
 - (Optional) AWS CLI installed
 
-### Steps
+## Steps
 
 1. Clone the repo:
    ```bash
@@ -60,7 +60,7 @@ To gain hands-on experience with:
    ```bash
    terraform destroy
 
-Folder Structure
+## Folder Structure
 
 ```bash
    Terraform-Practice/
